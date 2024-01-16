@@ -6,7 +6,7 @@ const About = () => {
         <section>
         <div class="flex flex-col justify-center items-center">
           <h1 class="mt-30 text-center text-5xl text-white font-bold drop-shadow-lg">
-          The memecoin inspired by the legend himself
+          About Us
           </h1>
           <p class="mt-5 lg:px-64 text-center text-xl text-white opacity-70">
           Born from the username of Drake on Stake.com, 'deeppockets6', where billions have been wagered, Deep Pockets embodies the thrill of high stakes and the allure of grand winnings. 
