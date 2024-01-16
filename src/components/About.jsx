@@ -6,18 +6,12 @@ const About = () => {
         <section>
         <div class="flex flex-col justify-center items-center">
           <h1 class="mt-30 text-center text-5xl text-white font-bold drop-shadow-lg">
-           Inspired by the Unique Asian Palm Civet
+          The memecoin inspired by the legend himself
           </h1>
           <p class="mt-5 lg:px-64 text-center text-xl text-white opacity-70">
-          This cat-like creature is behind the world's most luxurious coffee, Kopi Luwak, 
-          <wbr />
-          made from beans processed in its digestive system, creating a rare and exquisite flavor. 
-          <wbr />
-          Our project, symbolized by the tagline "The Cat with a Utility," reflects this blend of natural wonder and luxury. 
-          <wbr />
-          We invite you to join us in unveiling Civet to the world, a symbol of rarity, innovation, 
-          <wbr />
-          and the extraordinary journey from nature to blockchain luxury.
+          Born from the username of Drake on Stake.com, 'deeppockets6', where billions have been wagered, Deep Pockets embodies the thrill of high stakes and the allure of grand winnings. 
+          Deep Pockets is not just a memecoin; it's a tribute to the audacity and grandeur of online gaming, exemplified by Drake's remarkable wagering of billions on Stake.com. 
+          Operating on the Solana blockchain, Deep Pockets merges the worlds of music, gaming, and crypto into one thrilling experience, offering a token that represents more than value – it symbolizes an adventurous lifestyle.
           </p>
           <button
             type="button"
